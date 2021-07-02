@@ -1,5 +1,4 @@
 package com.example.android.codelabs.paging.ui
-
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.core.view.isVisible
